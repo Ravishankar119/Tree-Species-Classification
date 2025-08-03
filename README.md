@@ -55,7 +55,7 @@ The dataset contains labeled images of various tree species. Each image is prepr
 The model achieves good accuracy in classifying tree species. Evaluation metrics and sample predictions are shown in the notebook.
 
 ## 📸 Sample Output
-<img width="984" height="606" alt="image" src="https://github.com/user-attachments/assets/2c4e92ef-528a-4272-a682-bc7d5aefd4d4" />
+<img width="1182" height="319" alt="Screenshot 2025-08-03 180638" src="https://github.com/user-attachments/assets/99dd5491-a657-42c2-a582-f05ab0aca439" />
 <img width="983" height="612" alt="Screenshot 2025-08-03 180725" src="https://github.com/user-attachments/assets/c918a2cf-c12f-4a3c-b9ea-449f0a9b3306" />
 <img width="984" height="606" alt="Screenshot 2025-08-03 180744" src="https://github.com/user-attachments/assets/6b563053-e74f-423f-ae5c-6a426edab5a6" />
 
